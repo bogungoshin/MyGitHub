@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test name="Surefire test(failed)">
+    <classes>
+      <class name="com.epam.tests.MyGitHubTest">
+        <methods>
+          <include name="stop"/>
+          <include name="pressButtonWithoutLoginPass"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- com.epam.tests.MyGitHubTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

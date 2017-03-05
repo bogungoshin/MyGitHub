@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="110936" started-at="2017-03-05T15:54:24Z" finished-at="2017-03-05T15:56:15Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="110936" started-at="2017-03-05T15:54:24Z" finished-at="2017-03-05T15:56:15Z">
+      <class name="com.epam.tests.MyGitHubTest">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.epam.tests.MyGitHubTest@3498ed]" name="start" is-config="true" duration-ms="18402" started-at="2017-03-05T18:54:24Z" description="Start Browser" finished-at="2017-03-05T18:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="loginBigLetterLogin()[pri:0, instance:com.epam.tests.MyGitHubTest@3498ed]" name="loginBigLetterLogin" duration-ms="14230" started-at="2017-03-05T18:54:42Z" description="Login with the big letter" finished-at="2017-03-05T18:54:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBigLetterLogin -->
+        <test-method status="PASS" signature="stop()[pri:0, instance:com.epam.tests.MyGitHubTest@3498ed]" name="stop" is-config="true" duration-ms="2862" started-at="2017-03-05T18:54:57Z" description="Stop Browser" finished-at="2017-03-05T18:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+        <test-method status="PASS" signature="start()[pri:0, instance:com.epam.tests.MyGitHubTest@3498ed]" name="start" is-config="true" duration-ms="10545" started-at="2017-03-05T18:54:59Z" description="Start Browser" finished-at="2017-03-05T18:55:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="loginBigLetterPass()[pri:0, instance:com.epam.tests.MyGitHubTest@3498ed]" name="loginBigLetterPass" duration-ms="10736" started-at="2017-03-05T18:55:10Z" description="Password with the big letter" finished-at="2017-03-05T18:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBigLetterPass -->
+        <test-method status="PASS" signature="stop()[pri:0, instance:com.epam.tests.MyGitHubTest@3498ed]" name="stop" is-config="true" duration-ms="3423" started-at="2017-03-05T18:55:21Z" description="Stop Browser" finished-at="2017-03-05T18:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+        <test-method status="PASS" signature="start()[pri:0, instance:com.epam.tests.MyGitHubTest@3498ed]" name="start" is-config="true" duration-ms="9464" started-at="2017-03-05T18:55:24Z" description="Start Browser" finished-at="2017-03-05T18:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="loginRight()[pri:0, instance:com.epam.tests.MyGitHubTest@3498ed]" name="loginRight" duration-ms="10768" started-at="2017-03-05T18:55:34Z" description="Correct login and password" finished-at="2017-03-05T18:55:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginRight -->
+        <test-method status="PASS" signature="stop()[pri:0, instance:com.epam.tests.MyGitHubTest@3498ed]" name="stop" is-config="true" duration-ms="2550" started-at="2017-03-05T18:55:44Z" description="Stop Browser" finished-at="2017-03-05T18:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+        <test-method status="PASS" signature="start()[pri:0, instance:com.epam.tests.MyGitHubTest@3498ed]" name="start" is-config="true" duration-ms="9443" started-at="2017-03-05T18:55:47Z" description="Start Browser" finished-at="2017-03-05T18:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="pressButtonWithoutLoginPass()[pri:0, instance:com.epam.tests.MyGitHubTest@3498ed]" name="pressButtonWithoutLoginPass" duration-ms="15248" started-at="2017-03-05T18:55:56Z" description="Just to click button SignIn" finished-at="2017-03-05T18:56:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pressButtonWithoutLoginPass -->
+        <test-method status="PASS" signature="stop()[pri:0, instance:com.epam.tests.MyGitHubTest@3498ed]" name="stop" is-config="true" duration-ms="3210" started-at="2017-03-05T18:56:12Z" description="Stop Browser" finished-at="2017-03-05T18:56:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.epam.tests.MyGitHubTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
